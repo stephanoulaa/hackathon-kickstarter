@@ -1,5 +1,7 @@
 .App {
-  text-align: center;
+  text-align: left;
+	margin-left: 100px;
+	padding-top: 100px;
 }
 
 /*
@@ -22,7 +24,34 @@
 .App-intro {
   font-size: large;
 }
+*/
 
+.App-content {
+	font-size: 30px;
+	
+}
+
+.pic {
+	height: 30%;
+	width: 30%;
+	float: left;
+	padding: 20px;
+}
+
+.text {
+	width: 1000px;
+}
+
+.button {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.stuff {
+	float: right;
+}
+
+/*
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
