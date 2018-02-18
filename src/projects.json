@@ -1,0 +1,31 @@
+var myJSON = [
+    {
+        "title" : "Sample Title1",
+        "rep" : "Representative",
+        "org" : "Organizer",
+        "description" : "This is a description",
+        "photo" : "Photograph",
+        "current funds" : "Current Funds Here",
+        "fund goal" : "Current Fund Goal"
+    },
+    {
+        "title" : "Sample Title2",
+        "rep" : "Representative",
+        "org" : "Organizer",
+        "description" : "This is a description",
+        "photo" : "Photograph",
+        "current funds" : "Current Funds Here",
+        "fund goal" : "Current Fund Goal"
+    },
+    {
+        "title" : "Sample Title3",
+        "rep" : "Representative",
+        "org" : "Organizer",
+        "description" : "This is a description",
+        "photo" : "Photograph",
+        "current funds" : "Current Funds Here",
+        "fund goal" : "Current Fund Goal"
+    }
+];
+
+module.exports = myJSON
