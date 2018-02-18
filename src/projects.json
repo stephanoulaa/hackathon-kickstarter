@@ -1,4 +1,4 @@
-var myJSON = [
+[
     {
         "title" : "Sample Title1",
         "rep" : "Representative",
@@ -26,6 +26,4 @@ var myJSON = [
         "current funds" : "Current Funds Here",
         "fund goal" : "Current Fund Goal"
     }
-];
-
-module.exports = myJSON
+]
